@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "592565402428",
+    "firebase_url": "https://ticktask-d4430.firebaseio.com",
+    "project_id": "ticktask-d4430",
+    "storage_bucket": "ticktask-d4430.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592565402428:android:5ac54d1b9cbd1ef3a67c39",
+        "android_client_info": {
+          "package_name": "com.example.ticktask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592565402428-toc1nd8pqe1j509tifk27vb0np81ds7q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ticktask",
+            "certificate_hash": "15de3e87283fad4fb683461e48145ae83277f766"
+          }
+        },
+        {
+          "client_id": "592565402428-e1ll2m02icejoamofdcb6blo8ehhnk5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhkwkCfDKoV82HiXIhwySH-kW2UH_2c04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592565402428-e1ll2m02icejoamofdcb6blo8ehhnk5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
